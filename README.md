@@ -69,8 +69,8 @@
 
 <strong><p align="center">Flowchart</p></strong>
 
-![](Files/latihan5.jpg)
+![](Files/Screenshot.jpg)
 
 <strong><p align="center">Hasil Program</p></strong>
 
-![](Files/Screenshot.jpg)
+![](Files/latihan5.jpg)
